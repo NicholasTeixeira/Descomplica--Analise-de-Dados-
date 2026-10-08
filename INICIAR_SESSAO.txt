@@ -1,0 +1,26 @@
+===============================================================================
+GUIA DE INICIALIZAÇÃO DE SESSÃO - CLAUDE CODE
+===============================================================================
+
+Para iniciar as conversas com o Claudio e garantir que estamos na pasta correta,
+siga estes passos no seu terminal:
+
+1. ABRA O POWERSHELL OU CMD.
+
+2. ACESSE A PASTA DO PROJETO:
+   Execute o comando abaixo para entrar no diretório de trabalho:
+   cd C:\Users\SydTX\Descomplica\Descomplica
+
+3. INICIE O CLAUDE CODE:
+   Se você usa o comando padrão do Claude Code, digite:
+   claude
+
+4. COMANDO DE SINCRONIZAÇÃO INICIAL (Opcional):
+   Caso queira garantir que tudo está atualizado com o GitHub antes de começar:
+   git pull origin main
+
+-------------------------------------------------------------------------------
+DICA PARA O CLAUDIO:
+Sempre que iniciar, você pode me dizer:
+"Claudio, leia o arquivo CONVERSAS_HISTORICO.md para saber onde paramos."
+-------------------------------------------------------------------------------
