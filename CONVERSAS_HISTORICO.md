@@ -41,3 +41,55 @@ Este arquivo serve como registro histórico de todas as interações, decisões 
 - Sessão finalizada com sucesso e sincronizada com o GitHub.
 
 ---
+
+## 🗓️ Sessão: 07/10/2026 (Continuação)
+### Objetivos
+- Download e integração da base de dados do ProUni.
+- Validação de conceitos de funções do Pandas.
+- Criação de notebook de análise para Google Colab.
+
+### Atividades Realizadas
+1. **Gestão de Dados:**
+   - Importação da base de dados do ProUni (mensalidades, cursos, bolsas) para a pasta `data/`.
+   - Verificação da integridade dos dados via terminal.
+2. **Desenvolvimento:**
+   - Criação do notebook `analise_prouni.ipynb` com fluxos de limpeza, análise de Top 10 cursos mais caros e distribuição de bolsas.
+3. **Validação Técnica:**
+   - Revisão completa do notebook para confirmar a aplicação de: `fillna()`, `value_counts()`, `groupby()`, `agg()`, `sort_values()`, `apply()` e funções `lambda`.
+   - Confirmada a aplicação de 100% dos conceitos teóricos de funções do Pandas.
+4. **Sincronização:**
+   - Realização de commits e push de todos os arquivos (dados e notebook) para o GitHub.
+
+### Status Final
+- Base de dados integrada.
+- Notebook de análise criado e sincronizado.
+- Módulo de Funções no Pandas totalmente concluído e validado.
+
+---
+
+---
+
+## 🗓️ Sessão: 08/10/2026
+### Objetivos
+- Sincronização de ecossistema de produtividade (Trello $\rightarrow$ Google Agenda).
+- Organização de prazos de estudo para a semana.
+
+### Atividades Realizadas
+1. **Integrações Técnicas:**
+   - Implementação de fluxo OAuth 2.0 para Google Calendar API.
+   - Integração com Trello API via Personal Access Token.
+   - Automatização da leitura de cards do quadro "Rotina de Estudos" e criação de eventos correspondentes no Google Agenda.
+2. **Sincronização de Agenda:**
+   - Mapeamento e agendamento da "Aula de Análise de Dados - 08/10".
+   - Mapeamento e agendamento da "Aula de Análise de Dados - Sexta-feira".
+3. **Manutenção de Repositório:**
+   - Execução de `git pull origin main` para garantir a versão mais recente do projeto.
+
+### Status Final
+- Ecossistema de produtividade totalmente conectado.
+- Próximas aulas agendadas e visíveis no calendário.
+- Ambiente técnico pronto para a próxima sessão de análise de dados.
+
+### Adicionais de Agenda (Pessoal)
+- Agendada Consulta de Avaliação Psicológica para 13/10/2026.
+- Agendada Sessão de Terapia para 16/10/2026.
