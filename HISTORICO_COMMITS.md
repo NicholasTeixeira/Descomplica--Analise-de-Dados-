@@ -2,6 +2,9 @@
 
 Este documento detalha todas as alterações realizadas no repositório, agrupadas por data e traduzidas para português.
 
+## 📅 10/10/2026
+- **funcionalidade**: criação do notebook de Engenharia de Recursos e exportação para script python
+
 ## 📅 09/10/2026
 - **funcionalidade**: exportação do notebook de agrupamento para script python
 - **manutenção**: remoção de scripts de geração temporários da raiz
