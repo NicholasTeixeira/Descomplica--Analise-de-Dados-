@@ -97,15 +97,24 @@ Este arquivo serve como registro histórico de todas as interações, decisões 
 ## 🗓️ Sessão: 10/10/2026
 ### Objetivos
 - Sincronização do ambiente de trabalho e resgate do estado do projeto.
+- Implementação de Engenharia de Recursos.
 
 ### Atividades Realizadas
-1. **Manutenção de Versão:**
-   - Execução de `git pull origin main` para garantir a integridade do workspace.
-2. **Recuperação de Contexto:**
-   - Análise de commits recentes para identificar o ponto de parada.
-   - Verificação de exportações de lógica de notebooks para scripts Python e organização de pastas (`Simulações`).
-   - Validação de ajustes em planilhas de vendas (renomeação de colunas e conversão para Excel).
+1. **Manutenção e Contexto:**
+   - Execução de `git pull origin main` e análise de logs para retomada.
+   - Criação do documento `HISTORICO_COMMITS.md` com a tradução de todos os commits do repositório.
+2. **Desenvolvimento Técnico:**
+   - Criação do notebook `Eng de recursos.ipynb` focado em Feature Engineering.
+   - Implementação de médias móveis (5d, 21d, 60d) para dados da Bovespa (ITUB4).
+   - Aplicação de One-Hot Encoding para variáveis categóricas da base do Titanic (Sex, Embarked).
+3. **Organização de Estrutura:**
+   - Exportação da lógica do notebook para o script `eng_de_recursos.py`.
+   - Refatoração da estrutura de pastas, movendo scripts para a pasta `Scripts Python`.
+4. **Ritual de Versionamento:**
+   - Implementação de novo fluxo: Registro no `HISTORICO_COMMITS.md` $\rightarrow$ Commit incluindo o registro.
 
 ### Status Final
-- Sessão salva e histórico atualizado.
-- Ambiente pronto para a retomada do desenvolvimento.
+- Notebook e script de Engenharia de Recursos criados e sincronizados.
+- Estrutura de pastas corrigida (`Scripts Python`).
+- Histórico de commits traduzido e fluxo de log estabelecido.
+- Agendado estudo de **Numpy e Hadoop** para 11/10 às 09:30.
