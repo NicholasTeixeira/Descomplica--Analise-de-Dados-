@@ -3,6 +3,7 @@
 Este documento detalha todas as alterações realizadas no repositório, agrupadas por data e traduzidas para português.
 
 ## 📅 10/10/2026
+- **refatoração**: correção da estrutura de pastas, movendo scripts para 'Scripts Python'
 - **funcionalidade**: criação do notebook de Engenharia de Recursos e exportação para script python
 
 ## 📅 09/10/2026
