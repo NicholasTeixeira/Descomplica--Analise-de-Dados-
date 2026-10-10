@@ -3,9 +3,10 @@
 Este documento detalha todas as alterações realizadas no repositório, agrupadas por data e traduzidas para português.
 
 ## 📅 10/10/2026
-- **documentação**: atualização do diário de bordo técnico com o fechamento da sessão
+- **funcionalidade**: criação do notebook de Numpy e exportação para script python
 - **refatoração**: correção da estrutura de pastas, movendo scripts para 'Scripts Python'
 - **funcionalidade**: criação do notebook de Engenharia de Recursos e exportação para script python
+- **documentação**: atualização do diário de bordo técnico com o fechamento da sessão
 
 ## 📅 09/10/2026
 - **funcionalidade**: exportação do notebook de agrupamento para script python
