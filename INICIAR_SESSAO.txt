@@ -24,3 +24,10 @@ DICA PARA O CLAUDIO:
 Sempre que iniciar, você pode me dizer:
 "Claudio, leia o arquivo CONVERSAS_HISTORICO.md para saber onde paramos."
 -------------------------------------------------------------------------------
+
+Link com o Trello:
+As chaves de API do Trello e Google Agenda agora estão armazenadas no arquivo .env
+para garantir a segurança e evitar bloqueios do GitHub.
+
+Google Agenda:
+Para configurar novas chaves, edite o arquivo .env na raiz do projeto.
